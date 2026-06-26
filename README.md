@@ -54,11 +54,10 @@ Currently learning **Linux**, **Python**, **Networking**, and building my person
 
 ---
 
-## 🏆 Trophies
+## 🏆 Profile
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vinter0x&theme=algolia&no-frame=true&margin-w=12"/>
-</p>
+<img src="https://
 
 ---
 

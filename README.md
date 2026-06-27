@@ -32,7 +32,7 @@ Currently learning **Linux**, **Python**, **Networking**, and building my person
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,html,css,nextjs,ts,tailwind,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,go,vscode"/>
 </p>
 
 ---

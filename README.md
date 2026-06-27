@@ -54,13 +54,6 @@ Currently learning **Linux**, **Python**, **Networking**, and building my person
 
 ---
 
-## 🏆 Profile
-
-<p align="center">
-<img src="https://
-
----
-
 ## 🌍 Connect
 
 <p align="center">

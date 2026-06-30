@@ -59,7 +59,7 @@ Currently learning **Linux**, **Python**, **Networking**, and building my person
 <p align="center">
 
 <a href="https://github.com/vinter0x">GitHub</a> •
-<a href="https://linkedin.com/in/vinter0x">LinkedIn</a> •
+<a href="https://x.com/vinter0x">X (Twitter)</a> •
 <a href="https://vinter0x.dev">Website</a>
 
 </p>
